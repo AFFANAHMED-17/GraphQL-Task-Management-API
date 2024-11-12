@@ -19,11 +19,12 @@ This project is a simple **Task Management API** built using **Node.js**, **Expr
    ```bash
    git clone <repository-url>
    cd graphql-task-manager
+   npm init -y
    ```
 
 2. **Install Dependencies**:
    ```bash
-   npm install
+   npm install express express-graphql graphql
    ```
 
 3. **Start the Server**:
